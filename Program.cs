@@ -64,11 +64,11 @@ namespace Choose_Your_Class
                     string firstDrink = Console.ReadLine();
                     Console.Clear();
                     Console.WriteLine("-=x=-=x=-=x=-=x=-=x=-=x=-=x=-");
-                    Console.WriteLine("Enter 2st drink mix");
+                    Console.WriteLine("Enter 2rd drink mix");
                     string secondDrink = Console.ReadLine();
                     Console.Clear();
                     Console.WriteLine("-=x=-=x=-=x=-=x=-=x=-=x=-=x=-");
-                    Console.WriteLine("Enter 3st drink mix");
+                    Console.WriteLine("Enter 3rd drink mix");
                     string thirdDrink = Console.ReadLine();
                     Console.Clear();
                     Console.WriteLine("-=x=-=x=-=x=-=x=-=x=-=x=-=x=-");
